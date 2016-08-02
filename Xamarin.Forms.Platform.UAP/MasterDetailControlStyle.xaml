@@ -33,7 +33,7 @@
 									<RowDefinition Height="Auto" />
 								</Grid.RowDefinitions>
 
-								<!-- TODO EZH Verify that the correct things happen if you navigate to the MDP (back button) -->
+								<!-- TODO EZH Verify that the correct things happen if you navigate *to* the MDP (back button) -->
 								
 								
 								<StackPanel Grid.Row="0" Grid.Column="0" Orientation="Horizontal" VerticalAlignment="Center">
